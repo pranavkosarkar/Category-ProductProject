@@ -12,5 +12,4 @@ This project is a Spring Boot-based REST API that allows performing CRUD (Create
 
 - Backend: Spring Boot
 - Database: MySQL
-- JPA: Hibernate
 - REST API: Spring Web
